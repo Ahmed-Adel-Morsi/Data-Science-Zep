@@ -594,6 +594,7 @@ button {
     .services-sections ul li {
         margin-left: unset;
         list-style-type: none;
+        letter-spacing: 5px;
     }
     .contact-info a,
     .contact-info>p {
